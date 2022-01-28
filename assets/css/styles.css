@@ -1,0 +1,13 @@
+.btn-outline-light:hover {
+  color: #000;
+  background-color: #00c97d;
+  border-color: #f8f9fa;
+  border: 3px solid #00F9E2;
+}
+
+.btn-outline-light {
+  /*color: #f8f9fa;*/
+  /*border-color: #f8f9fa;*/
+  border: 3px solid #00F9E2;
+}
+
